@@ -1,5 +1,6 @@
 .nav-button {
     padding: 15px;
+
 }
 .nav-item {
     margin-left: 15px;
@@ -8,13 +9,13 @@
 .navbar-toggler-icon{
     padding: 10px;
 }
+
 .logo_header {
     margin-left: 15px;
     margin-right: 15px;
 }
-
 .background {
-    background-image: url('../img/PortadaIndex.png');
+    background-image: url('../img/bg/background.png');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
